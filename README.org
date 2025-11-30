@@ -1,3 +1,4 @@
+#+OPTIONS: \n:t
 * My Macropad
 Good Morning! I created a macropad made to be
 used for video editing with the help of
