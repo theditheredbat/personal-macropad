@@ -1,0 +1,33 @@
+# My Macropad
+Good Morning! I created a macropad made to be
+used for video editing with the help of
+HackClub's infamous Hackpad tutorial.
+![image](./images/COMPLETE-CASE.png)
+## Firmware
+Made with KMK.
+Knob: scrub the timeline
+Right button: Go to In point
+Left button: Go to Out point
+Up button: Clear In and Out
+Down button: Save
+## PCB
+Made in KiCAD
+Schematic:
+![image](./images/SCHEMATIC.png)
+PCB:
+![image](./images/PCB.png)
+## CAD
+Made in Fusion360 
+Bottom: 
+![image](./images/BOTTOM-CASE.png)
+Top: 
+![image](./images/TOP-CASE.png)
+## BOM
+1x XIAO RP2040 
+1x EC11 Rotary Encoder 
+4x Cherry MX Switches 
+4x DSA Keycaps 
+4x M3x16 Bolt 
+4x M3 Heatset 
+1x PCB 
+1x 3D Printed Case
