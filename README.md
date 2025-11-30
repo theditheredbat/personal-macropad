@@ -17,9 +17,9 @@ Schematic:
 PCB:  
 ![image](./images/PCB.png)
 ## CAD
-Made in Fusion360 
+Made in Fusion360  
 Bottom:  
-![image](./images/BOTTOM-CASE.png)
+![image](./images/BOTTOM-CASE.png)  
 Top:  
 ![image](./images/TOP-CASE.png)
 ## BOM
